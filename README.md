@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ankitverma273/ankitverma273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... my twitter(twitter.com/AnkitVerma2711) and linkedin(https://www.linkedin.com/in/ankit-verma273/)
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ...Developers love to stay awake at Night. LOL
--->

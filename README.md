@@ -11,5 +11,5 @@
 
 ### Connect with me:
 
-[<img align="left" alt="AnkitVerma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AnkitVerma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AnkitVerma | Twitter" width="22px" src="https://mobile.twitter.com/AnkitVerma2711" />][twitter]
+[<img align="left" alt="AnkitVerma | LinkedIn" width="22px" src="https://www.linkedin.com/in/ankit273/" />][linkedin]

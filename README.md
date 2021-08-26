@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="AnkitVerma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="AnkitVerma | Twitter" width="22px" src="https://clipartcraft.com/images/twitter-transparent-logo-social-media.png" />][twitter]
 [<img align="left" alt="AnkitVerma | LinkedIn" width="22px" src="https://copyblogger.com/cdn-origin/images/linkedin.png" />][linkedin]
 
 <br />

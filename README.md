@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'am Ankit Verma
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... Android, Kotlin
+- 🔭 I’m currently working on ... an Android Project
+- 🌱 I’m currently learning ... Android, Kotlin, Git/Github
 - 👯 I’m looking to collaborate on ... Android
 - 🤔 I’m looking for help with ... Firebase, MongoDB
 - 💬 Ask me about ... Anything

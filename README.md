@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ankit.dev273@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1abPSM-Ln1Xya2Gyo9WEfmaj6NfFShe8I/view?usp=sharing](https://drive.google.com/file/d/1abPSM-Ln1Xya2Gyo9WEfmaj6NfFShe8I/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://shorturl.at/tAJO4)
 
 - ⚡ Fun fact **Unintentionally funny for some people**
 

@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ankitverma273](https://github.com/ankitverma273)
+- 👨‍💻 All of my projects are available at [My profile](https://github.com/ankitverma273)
 
-- 📝 I regularly write articles on [https://medium.com/@ankit.dev273](https://medium.com/@ankit.dev273)
+- 📝 I regularly write articles on [My Blogs](https://medium.com/@ankit.dev273)
 
 - 💬 Ask me about **Android, APIs, OOPs, UI/UX**
 
